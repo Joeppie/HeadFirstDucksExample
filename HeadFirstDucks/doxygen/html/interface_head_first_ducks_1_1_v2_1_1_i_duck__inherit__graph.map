@@ -1,0 +1,5 @@
+<map id="HeadFirstDucks.V2.IDuck" name="HeadFirstDucks.V2.IDuck">
+<area shape="rect" id="node1" title="Interface voor eenden. Een eend kan vliegen en kwaken." alt="" coords="142,5,314,97"/>
+<area shape="rect" id="node2" href="$class_head_first_ducks_1_1_v2_1_1_mallard_duck.html" title=" " alt="" coords="5,145,216,237"/>
+<area shape="rect" id="node3" href="$class_head_first_ducks_1_1_v2_1_1_rubber_duck.html" title=" " alt="" coords="240,145,451,237"/>
+</map>
